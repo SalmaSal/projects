@@ -1,0 +1,30 @@
+/* add your CSS here */
+.imge {
+    max-width: 300px;
+    padding-bottom: 2%;   
+}
+p.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+li.unstyled {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    /*font-weight: bold;*/
+}
+.Out_border {
+    border: 1px dashed green;
+    padding: 1%;
+    width:300px;
+    /*margin: 1cm 20cm 1cm 1cm;*/
+
+}
+.Inn_border{
+border: 1px dashed green;
+width:100%;
+
+}
+
